@@ -1,0 +1,19 @@
+{
+  "name": "google-material-components",
+  "version": "1.0.0",
+  "description": "Lightweight, drop-in setup and teardown for Google's Material Components UI library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "material",
+    "ui",
+    "components",
+    "observer",
+    "material-components"
+  ],
+  "author": "szTheory",
+  "license": "MIT"
+}
